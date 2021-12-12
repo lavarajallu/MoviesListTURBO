@@ -1,0 +1,6 @@
+module Pods_turbomovie_turbomovieTests {
+  umbrella header "Pods-turbomovie-turbomovieTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,14 @@
+com/turbomovie/MainActivity.java
+ com.turbomovie.MainActivity
+com/turbomovie/ReactNativeFlipper.java
+ com.turbomovie.ReactNativeFlipper
+ com.turbomovie.ReactNativeFlipper$1
+ com.turbomovie.ReactNativeFlipper$2
+ com.turbomovie.ReactNativeFlipper$2$1
+com/turbomovie/MainApplication.java
+ com.turbomovie.MainApplication
+ com.turbomovie.MainApplication$1
+com/turbomovie/BuildConfig.java
+ com.turbomovie.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
